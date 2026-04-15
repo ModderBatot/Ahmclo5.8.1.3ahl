@@ -3,7 +3,7 @@
     {
       "package": "com.google.android.youtube",
       "status": true,
-      "installed_error_message": "تم الايقاف"
+      "installed_error_message": " تم الايقاف "
     }
   ],
   "Detect_Not_installed": [
@@ -11,7 +11,7 @@
     {
       "package": "com.ahnihoumohub.prjko",
       "status": true,
-      "not_installed_error_message": "لعدم الدفع"
+      "not_installed_error_message": " لعدم الدفع "
     }
   ]
 }
